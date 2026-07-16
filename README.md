@@ -19,6 +19,8 @@ I designed a Arduino Uno LED blinker that mimics RC circuits through code along 
 
 Put the parts as they are shown in the image . All of the resistors are the same resistance so don't worry about where you put each of them. From left to right the order of LEDs should be, RED, RED, BLUE, BLUE, YELLOW, YELLOW. The potentiometer controls how fast and which LEDs are blinking.
 
+## Why I Made It
+The main reason why I made this project was so I could learn how to use a breadboard. Even though in the past I have made PCBs and circuits, I never actually learned how to use a breadboard. So I decided to try to make a project using one and I ended up deciding to make an RC circuit because that has always been my favorite beginner project for circuits.
 
 ## Demo
 
